@@ -1,0 +1,42 @@
+{
+  "businessName": "KC Haulage Transport and Logistics Consultant",
+  "industry": "Transport and Logistics",
+  "tone": "professional and reliable",
+  "tagline": "Your Trusted Partner in Cargo Transportation and Logistics Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "KC Haulage Transport and Logistics Consultant\n\nReliable Cargo Transportation Across Nigeria\n\nFrom manufacturing plants to distribution centers, we deliver your goods safely and on time. With years of experience serving Lagos and beyond, KC Haulage is your dependable logistics partner for heavy haulage, container transportation, and supply chain management.\n\nGet a Quote Today",
+      "imagePrompt": "Wide-angle photograph of a fleet of modern cargo trucks and container trailers parked in an organized yard in Lagos, Nigeria, early morning golden hour light, professional transportation company branding visible, Apapa port area in background, clean industrial aesthetic, high detail, photorealistic",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About KC Haulage Transport and Logistics Consultant\n\nBased in the heart of Lagos's industrial hub at Ajegunle, Apapa, KC Haulage has been a cornerstone of reliable transportation and logistics services for manufacturers and distributors across Nigeria. We understand the critical importance of timely delivery in the manufacturing sector.\n\nOur strategic location near Apapa Port gives us unmatched access to import and export routes, while our experienced team and well-maintained fleet ensure your cargo reaches its destination safely and efficiently. From heavy machinery to sensitive materials, we handle every shipment with the professionalism and care it deserves.\n\nWe don't just move goods—we build lasting partnerships with businesses who need a logistics provider they can count on, day in and day out.",
+      "imagePrompt": "Professional photograph of KC Haulage office and yard facility in Apapa, Lagos, showing organized parking area with trucks, small administrative building, Nigerian staff in branded uniforms coordinating operations, containers and cargo visible, busy industrial port area atmosphere, bright daylight, documentary style photography",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Comprehensive Logistics Solutions\n\nHeavy Haulage Transportation\nSpecialized transportation of heavy machinery, construction equipment, and oversized cargo. Our fleet is equipped to handle loads of all sizes with proper securing and route planning.\n\nContainer Transportation\nEfficient movement of 20ft and 40ft containers from Apapa and Tin Can ports to warehouses and manufacturing facilities across Lagos and nationwide.\n\nSupply Chain Management\nEnd-to-end logistics coordination for manufacturers, including pickup scheduling, route optimization, and delivery tracking to keep your operations running smoothly.\n\nWarehouse Distribution\nReliable transportation between warehouses, distribution centers, and retail locations. We ensure your products reach their destination in perfect condition.\n\nFleet Leasing\nShort-term and long-term vehicle leasing options for businesses with temporary or seasonal transportation needs. Well-maintained vehicles with experienced drivers.\n\nLogistics Consultation\nExpert advice on optimizing your transportation routes, reducing costs, and improving delivery efficiency. We help manufacturers streamline their supply chain operations.",
+      "imagePrompt": "Collage-style photograph showing various KC Haulage services: container being loaded onto flatbed truck, heavy machinery transport on specialized trailer, warehouse loading bay activity, drivers checking cargo, all set in Lagos industrial areas, professional operations, vibrant Nigerian business environment, high-quality commercial photography",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Get in Touch with KC Haulage\n\nReady to discuss your transportation and logistics needs? Our team is available to provide quotes, answer questions, and schedule pickups.\n\nWhether you need a one-time heavy haulage service or a long-term logistics partnership, we're here to help your business move forward.\n\nOffice Address\n10, Omowumi Street, Ajegunle, Apapa, Lagos, Nigeria\n\nPhone\n0803 567 7452\n\nBusiness Hours\nMonday - Friday: 7:00 AM - 6:00 PM\nSaturday: 8:00 AM - 2:00 PM\nSunday: Closed (Emergency services available)\n\nRequest a Quote\nContact us today for competitive pricing on your next shipment. We provide detailed quotes based on your specific cargo, route, and timeline requirements.",
+      "imagePrompt": "Professional photograph of KC Haulage office entrance at 10 Omowumi Street in Ajegunle, Apapa area, Lagos, showing welcoming office front with company signage, Nigerian business district atmosphere, some trucks visible in background, daytime, inviting and professional appearance, business documentary style",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0803 567 7452",
+    "email": "info@kchaulage.com.ng",
+    "address": "10, Omowumi Street, Ajegunle, Apapa, Lagos, Nigeria",
+    "whatsapp": "https://wa.me/2348035677452"
+  }
+}
